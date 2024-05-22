@@ -1,2 +1,2 @@
 # ds_projects
-Neste repositorio haverá projetos completos e incompletos de DS
+Neste repositorio existem projetos e/ou notebooks completos e incompletos para ML

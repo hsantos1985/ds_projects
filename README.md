@@ -1,2 +1,2 @@
 # ds_projects
-This reposity has ds projects
+Neste repositorio haverá projetos completos e incompletos de DS
